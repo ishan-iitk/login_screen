@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854794784865",
+    "project_id": "fashiontechapp",
+    "storage_bucket": "fashiontechapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854794784865:android:bab19f61ef9e231b661a20",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854794784865-fduf6pfn736h2thu36ooephoog049qh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCueyEEzRBzmpgiarhfZRHPgicG181KyFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854794784865-fduf6pfn736h2thu36ooephoog049qh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
