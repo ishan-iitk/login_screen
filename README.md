@@ -1,6 +1,6 @@
 # login_screen
 
-A new Flutter project.
+Building an interactive UI based login screen in Flutter framework using Dart with OTP Authentication and storing user details in Firebase 
 
 ## Getting Started
 
